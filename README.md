@@ -1,2 +1,2 @@
-# 1st
+# Fitness
 This is my first Git Repository
